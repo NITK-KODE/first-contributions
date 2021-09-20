@@ -1,5 +1,5 @@
 // Pageclip URL to send the form
-const URL = "https://sednd.pageclip.co/XaebiYBDPAKyaIrImWjfnpsOYuiYAhyK/ContactForm";
+const URL = "https://send.pageclip.co/XaebiYBDPAKyaIrImWjfnpsOYuiYAhyK/ContactForm";
 // Timeout the form submit after 10 secs
 const formSubmitTimeout = 10;
 
